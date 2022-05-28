@@ -139,6 +139,11 @@
        position: fixed;
        bottom: 0;
      }
+
+     .attribution a {
+       text-decoration: none;
+       color: #3685ff;
+     }
   
   /* ==========================================================================
      Helper classes
